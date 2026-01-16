@@ -68,11 +68,6 @@ Evaluation emphasized recall and F1-score due to class imbalance.
 - Imbalance Handling: SMOTE (imbalanced-learn)
 - Boosting: XGBoost
 
-## Project Structure
-├── churn_not_churn.ipynb
-├── README.md
-├── dataset_task1.csv
-
 
 ## Conclusion
 This project demonstrates a structured and reproducible machine learning pipeline for customer churn prediction, combining exploratory analysis, preprocessing, imbalance handling, and model comparison to derive meaningful business insights.
